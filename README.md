@@ -1,6 +1,8 @@
 Hello ! I'm lead developer/tech lead at IBM.
 You can contact me: viulong.kong(at)fr.ibm.com
 
+Most of my public contributions are in: https://github.com/IBMDecisionOptimization
+
 <!--
 **vlkong/vlkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
